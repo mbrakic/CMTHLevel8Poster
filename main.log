@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  22 NOV 2022 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  22 NOV 2022 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1517,13 +1517,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Here is how much of TeX's memory you used:
  35077 strings out of 480994
  685292 string characters out of 5916032
- 1371692 words of memory out of 5000000
+ 1372692 words of memory out of 5000000
  49857 multiletter control sequences out of 15000+600000
  594935 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,109p,1205b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb>
-Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/CMTHPoster/main.pdf (1 page, 121444 bytes).
+Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/CMTHPoster/main.pdf (1 page, 121273 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
