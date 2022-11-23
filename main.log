@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  23 NOV 2022 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  23 NOV 2022 13:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1482,11 +1482,14 @@ Package pdftex.def Info: images/metamaterials.jpg  used on input line 95.
 (pdftex.def)             Requested size: 1016.01912pt x 506.88838pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 26.78pt on input line 96.
-<images/complexity.jpg, id=15, 344.28625pt x 189.70876pt>
-File: images/complexity.jpg Graphic file (type jpg)
-<use images/complexity.jpg>
-Package pdftex.def Info: images/complexity.jpg  used on input line 114.
-(pdftex.def)             Requested size: 1016.01912pt x 675.86758pt.
+
+
+pdfTeX warning: pdflatex.exe (file c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/AntColony.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<images/AntColony.pdf, id=15, 794.97pt x 614.295pt>
+File: images/AntColony.pdf Graphic file (type pdf)
+<use images/AntColony.pdf>
+Package pdftex.def Info: images/AntColony.pdf  used on input line 114.
+(pdftex.def)             Requested size: 1015.94482pt x 675.83907pt.
 <images/correlated.jpg, id=16, 344.28625pt x 189.70876pt>
 File: images/correlated.jpg Graphic file (type jpg)
 <use images/correlated.jpg>
@@ -1499,9 +1502,9 @@ Package pdftex.def Info: images/simulation_materials.jpg  used on input line 148
 (pdftex.def)             Requested size: 1016.01912pt x 506.88838pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 4.0pt on input line 155.
- [1
+[1
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/Imperial_1_Pantone_solid.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/metamaterials.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/complexity.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/correlated.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg>]
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/Imperial_1_Pantone_solid.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/metamaterials.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/AntColony.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/correlated.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg>]
 \tf@nav=\write9
 \openout9 = `main.nav'.
 
@@ -1524,17 +1527,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  35108 strings out of 480994
- 685816 string characters out of 5916032
+ 685834 string characters out of 5916032
  1377726 words of memory out of 5000000
  49887 multiletter control sequences out of 15000+600000
  605512 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,109p,1194b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 148208 bytes).
+Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 172018 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 50 PDF objects out of 1000 (max. 8388607)
+ 29 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  68 words of extra memory for PDF output out of 10000 (max. 10000000)
 
