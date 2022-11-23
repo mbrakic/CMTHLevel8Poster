@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  23 NOV 2022 12:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  23 NOV 2022 13:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1485,20 +1485,20 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 <images/complexity.jpg, id=15, 344.28625pt x 189.70876pt>
 File: images/complexity.jpg Graphic file (type jpg)
 <use images/complexity.jpg>
-Package pdftex.def Info: images/complexity.jpg  used on input line 112.
+Package pdftex.def Info: images/complexity.jpg  used on input line 114.
 (pdftex.def)             Requested size: 1016.01912pt x 675.86758pt.
 <images/correlated.jpg, id=16, 344.28625pt x 189.70876pt>
 File: images/correlated.jpg Graphic file (type jpg)
 <use images/correlated.jpg>
-Package pdftex.def Info: images/correlated.jpg  used on input line 133.
+Package pdftex.def Info: images/correlated.jpg  used on input line 135.
 (pdftex.def)             Requested size: 1016.01912pt x 675.86758pt.
 <images/simulation_materials.jpg, id=17, 344.28625pt x 189.70876pt>
 File: images/simulation_materials.jpg Graphic file (type jpg)
 <use images/simulation_materials.jpg>
-Package pdftex.def Info: images/simulation_materials.jpg  used on input line 146.
+Package pdftex.def Info: images/simulation_materials.jpg  used on input line 148.
 (pdftex.def)             Requested size: 1016.01912pt x 506.88838pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 4.0pt on input line 153.
+(Font)              scaled to size 4.0pt on input line 155.
  [1
 
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/Imperial_1_Pantone_solid.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/metamaterials.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/complexity.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/correlated.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg>]
@@ -1511,11 +1511,11 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 \tf@snm=\write11
 \openout11 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 156.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 156.
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 156.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 156.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1531,7 +1531,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  66i,11n,109p,1194b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 148000 bytes).
+Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 148208 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
