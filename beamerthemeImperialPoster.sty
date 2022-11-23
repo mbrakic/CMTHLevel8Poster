@@ -5,7 +5,7 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage{newtxtext,newtxsf}
 \RequirePackage[scaled=0.92]{inconsolata}
-\renewcommand{\familydefault}{\sfdefault}
+% \renewcommand{\familydefault}{\sfdefault}
 
 \RequirePackage{tikz}
 \RequirePackage[skins]{tcolorbox}
@@ -29,13 +29,22 @@
   \usebeamertemplate{enumerate item}}
 \setlist{nosep,leftmargin=*}
 
+% \renewenvironment{figure}{%
+%   \refstepcounter{figure}%
+%   {\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
+%   \renewcommand\caption[1]{\par\small\raggedright\usebeamercolor[fg]{caption}##1}
+% }{%
+%   \vspace*{\baselineskip}
+% }
+
 \renewenvironment{figure}{%
   \refstepcounter{figure}%
-  {\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{\figurename}~\thefigure}\par\vskip.75ex
+  {\usebeamerfont{block title}\usebeamercolor[fg]{block title}\MakeUppercase{}~}\par\vskip.75ex
   \renewcommand\caption[1]{\par\small\raggedright\usebeamercolor[fg]{caption}##1}
 }{%
   \vspace*{\baselineskip}
 }
+
 
 \renewenvironment{table}{%
   \refstepcounter{table}%
@@ -90,7 +99,7 @@
 
   \if@beamerposter@portrait
     \setlength{\logowidth}{0.25\textwidth}
-    \setlength{\titleindent}{\dimexpr 0.5\logowidth+2em\relax}
+    \setlength{\titleindent}{\dimexpr 0.7\logowidth+2em\relax}
   \else
     \setlength{\logowidth}{0.167\textwidth}
     \setlength{\titleindent}{\dimexpr\logowidth+1em\relax}
@@ -114,6 +123,7 @@
 
 \setbeamertemplate{itemize item}{$\blacktriangleright\,$}
 \setbeamertemplate{itemize subitem}{$\bullet$ }
+\setbeamertemplate{frametitle}[default][center]
 
 \setbeamertemplate{block begin}{%
   \begin{beamercolorbox}[ht=2.5ex,dp=1ex]{block title}%
@@ -127,6 +137,12 @@
 \setbeamertemplate{block end}{
   \end{beamercolorbox}\vspace*{\baselineskip}
 }
+
+\newenvironment{variableblock}[3]{%
+  \setbeamercolor{block body}{#2}
+  \setbeamercolor{block title}{#3}
+  \begin{block}{#1}}{\end{block}}
+
 
 \setbeamertemplate{navigation symbols}{}
 
