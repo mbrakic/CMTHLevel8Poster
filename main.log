@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  23 NOV 2022 14:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.3.14)  28 NOV 2022 11:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -688,10 +688,96 @@ Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 \WF@box=\box76
 \WF@everypar=\toks48
 Package: wrapfig 2003/01/31  v 3.6
+) (c:/texlive/2019/texmf-dist/tex/latex/pstricks/pstricks.sty
+Package: pstricks 2018/12/21 v0.69 LaTeX wrapper for `PSTricks' (RN,HV)
+ (c:/texlive/2019/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+) (c:/texlive/2019/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+) (c:/texlive/2019/texmf-dist/tex/generic/pstricks/pstricks.tex (c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.05, 2010/01/17 (hv)
+\pstFP@xs=\count334
+\pstFP@xia=\count335
+\pstFP@xib=\count336
+\pstFP@xfa=\count337
+\pstFP@xfb=\count338
+\pstFP@rega=\count339
+\pstFP@regb=\count340
+\pstFP@regs=\count341
+\pstFP@times=\count342
+)
+\psLoopIndex=\count343
+
+`PSTricks' v2.97  <2019/05/11> (tvz,hv)
+\pst@dima=\dimen291
+\pst@dimb=\dimen292
+\pst@dimc=\dimen293
+\pst@dimd=\dimen294
+\pst@dimg=\dimen295
+\pst@dimh=\dimen296
+\pst@dimm=\dimen297
+\pst@dimn=\dimen298
+\pst@dimo=\dimen299
+\pst@dimp=\dimen300
+\pst@hbox=\box77
+\pst@ibox=\box78
+\pst@boxg=\box79
+\pst@cnta=\count344
+\pst@cntb=\count345
+\pst@cntc=\count346
+\pst@cntd=\count347
+\pst@cntg=\count348
+\pst@cnth=\count349
+\pst@cntm=\count350
+\pst@cntn=\count351
+\pst@cnto=\count352
+\pst@cntp=\count353
+\@zero=\count354
+\pst@toks=\toks49
+(c:/texlive/2019/texmf-dist/tex/generic/pstricks/pstricks.con)
+\psunit=\dimen301
+\psxunit=\dimen302
+\psyunit=\dimen303
+\pst@C@@rType=\count355
+\pslinewidth=\dimen304
+\psk@startLW=\dimen305
+\psk@endLW=\dimen306
+\pst@customdefs=\toks50
+\pslinearc=\dimen307
+\pst@symbolStep=\dimen308
+\pst@symbolWidth=\dimen309
+\pst@symbolLinewidth=\dimen310
+\everypsbox=\toks51
+\psframesep=\dimen311
+\pslabelsep=\dimen312
+\sh@wgridXunit=\dimen313
+\sh@wgridYunit=\dimen314
+\pst@shift=\dimen315
+)
+File: pstricks.tex 2019/05/11 v2.97 `PSTricks' (tvz,hv)
+ (c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex)
+File: pst-fp.tex 2019/05/11 v2.97 `PST-fp' (hv)
+) (c:/texlive/2019/texmf-dist/tex/latex/textpos/textpos.sty
+Package: textpos 2019/04/15 v1.9.1
+
+Package: textpos 2019/04/15 1.9.1, absolute positioning of text on the page
+\TP@textbox=\box80
+\TP@holdbox=\box81
+\TPHorizModule=\dimen316
+\TPVertModule=\dimen317
+\TP@margin=\dimen318
+\TP@absmargin=\dimen319
+Grid set 16 x 16 = 149.5548pt x 211.43953pt
+\TPboxrulesize=\dimen320
+\TP@ox=\dimen321
+\TP@oy=\dimen322
+\TP@tbargs=\toks52
+\TP@prevdepth=\dimen323
+TextBlockOrigin set to 0pt x 0pt
 ) (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/beamerthemeImperialPoster.sty (c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks49
-\inpenc@posthook=\toks50
+\inpenc@prehook=\toks53
+\inpenc@posthook=\toks54
 ) (c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 ) (c:/texlive/2019/texmf-dist/tex/latex/newtx/newtxtext.sty
@@ -709,7 +795,7 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-\ntx@fs=\dimen291
+\ntx@fs=\dimen324
  (c:/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 112.
@@ -726,7 +812,7 @@ LaTeX Font Info:    Redeclaring math symbol \mathsterling on input line 234.
 ) (c:/texlive/2019/texmf-dist/tex/latex/newtxsf/newtxsf.sty
 Package: newtxsf 2018/06/07 v1.051
  `newtxsf' v1.051, 2018/06/07 Math macros based on STIX sans serif and txfonts (msharpe) (c:/texlive/2019/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count334
+\tx@Isdigit=\count356
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 47.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 47.
@@ -856,136 +942,151 @@ LaTeX Info: Redefining \openbox on input line 1753.
 ) (c:/texlive/2019/texmf-dist/tex/latex/inconsolata/inconsolata.sty
 Package: inconsolata 2019/05/17 v1.12
  `inconsolata-zi4' v1.12, 2019/05/17 Text macros for Inconsolata (msharpe)
-\zifour@ocount=\count335
+\zifour@ocount=\count357
 ) (c:/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
- (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+Loading pgf.sty
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box77
+\pgfnodeparttextbox=\box82
 ) (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ) (c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen292
-\pgf@nodesepend=\dimen293
+Loading pgfcomp-version-0-65.sty
+\pgf@nodesepstart=\dimen325
+\pgf@nodesepend=\dimen326
 ) (c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+Loading pgfcomp-version-1-18.sty
 )) (c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (c:/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (c:/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
- (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen294
-\pgffor@skip=\dimen295
-\pgffor@stack=\toks51
-\pgffor@toks=\toks52
+Loading pgffor.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen327
+\pgffor@skip=\dimen328
+\pgffor@stack=\toks55
+\pgffor@toks=\toks56
 )) (c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
- (c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+Loading tikz.code.tex
+(c:/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count336
-\pgfplotmarksize=\dimen296
+\pgf@plot@mark@count=\count358
+\pgfplotmarksize=\dimen329
 )
-\tikz@lastx=\dimen297
-\tikz@lasty=\dimen298
-\tikz@lastxsaved=\dimen299
-\tikz@lastysaved=\dimen300
-\tikz@lastmovetox=\dimen301
-\tikz@lastmovetoy=\dimen302
-\tikzleveldistance=\dimen303
-\tikzsiblingdistance=\dimen304
-\tikz@figbox=\box78
-\tikz@figbox@bg=\box79
-\tikz@tempbox=\box80
-\tikz@tempbox@bg=\box81
-\tikztreelevel=\count337
-\tikznumberofchildren=\count338
-\tikznumberofcurrentchild=\count339
-\tikz@fig@count=\count340
+\tikz@lastx=\dimen330
+\tikz@lasty=\dimen331
+\tikz@lastxsaved=\dimen332
+\tikz@lastysaved=\dimen333
+\tikz@lastmovetox=\dimen334
+\tikz@lastmovetoy=\dimen335
+\tikzleveldistance=\dimen336
+\tikzsiblingdistance=\dimen337
+\tikz@figbox=\box83
+\tikz@figbox@bg=\box84
+\tikz@tempbox=\box85
+\tikz@tempbox@bg=\box86
+\tikztreelevel=\count359
+\tikznumberofchildren=\count360
+\tikznumberofcurrentchild=\count361
+\tikz@fig@count=\count362
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count341
-\pgfmatrixcurrentcolumn=\count342
-\pgf@matrix@numberofcolumns=\count343
+\pgfmatrixcurrentrow=\count363
+\pgfmatrixcurrentcolumn=\count364
+\pgf@matrix@numberofcolumns=\count365
 )
-\tikz@expandcount=\count344
+\tikz@expandcount=\count366
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 ))) (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2019/11/15 version 4.22 text color boxes
- (c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+
+
+LaTeX Warning: You have requested, on input line 24, version
+               `2008/01/15' of package pgf,
+               but only version
+               `'
+               is available.
+
+(c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks53
-\verbatim@line=\toks54
+\every@verbatim=\toks57
+\verbatim@line=\toks58
 \verbatim@in@stream=\read3
 ) (c:/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
  (c:/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
-\tcb@titlebox=\box82
-\tcb@upperbox=\box83
-\tcb@lowerbox=\box84
-\tcb@phantombox=\box85
-\c@tcbbreakpart=\count345
-\c@tcblayer=\count346
-\tcolorbox@number=\count347
-\tcb@temp=\box86
-\tcb@temp=\box87
-\tcb@temp=\box88
-\tcb@temp=\box89
+\tcb@titlebox=\box87
+\tcb@upperbox=\box88
+\tcb@lowerbox=\box89
+\tcb@phantombox=\box90
+\c@tcbbreakpart=\count367
+\c@tcblayer=\count368
+\tcolorbox@number=\count369
+\tcb@temp=\box91
+\tcb@temp=\box92
+\tcb@temp=\box93
+\tcb@temp=\box94
 \tcb@out=\write5
 \tcb@record@out=\write6
  (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '4.22'
-\tcb@waterbox=\box90
+
+LaTeX Warning: You have requested, on input line 22, version
+               `2010/10/13' of package tikz,
+               but only version
+               `'
+               is available.
+
+\tcb@waterbox=\box95
 (c:/texlive/2019/texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.22'
 ))) (c:/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen305
-\TX@old@table=\dimen306
-\TX@old@col=\dimen307
-\TX@target=\dimen308
-\TX@delta=\dimen309
-\TX@cols=\count348
-\TX@ftn=\toks55
+\TX@col@width=\dimen338
+\TX@old@table=\dimen339
+\TX@old@col=\dimen340
+\TX@target=\dimen341
+\TX@delta=\dimen342
+\TX@cols=\count370
+\TX@ftn=\toks59
 ) (c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen310
-\lightrulewidth=\dimen311
-\cmidrulewidth=\dimen312
-\belowrulesep=\dimen313
-\belowbottomsep=\dimen314
-\aboverulesep=\dimen315
-\abovetopsep=\dimen316
-\cmidrulesep=\dimen317
-\cmidrulekern=\dimen318
-\defaultaddspace=\dimen319
-\@cmidla=\count349
-\@cmidlb=\count350
-\@aboverulesep=\dimen320
-\@belowrulesep=\dimen321
-\@thisruleclass=\count351
-\@lastruleclass=\count352
-\@thisrulewidth=\dimen322
+\heavyrulewidth=\dimen343
+\lightrulewidth=\dimen344
+\cmidrulewidth=\dimen345
+\belowrulesep=\dimen346
+\belowbottomsep=\dimen347
+\aboverulesep=\dimen348
+\abovetopsep=\dimen349
+\cmidrulesep=\dimen350
+\cmidrulekern=\dimen351
+\defaultaddspace=\dimen352
+\@cmidla=\count371
+\@cmidlb=\count372
+\@aboverulesep=\dimen353
+\@belowrulesep=\dimen354
+\@thisruleclass=\count373
+\@lastruleclass=\count374
+\@thisrulewidth=\dimen355
 ) (c:/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip70
-\enit@outerparindent=\dimen323
-\enit@toks=\toks56
-\enit@inbox=\box91
-\enit@count@id=\count353
-\enitdp@description=\count354
+\enit@outerparindent=\dimen356
+\enit@toks=\toks60
+\enit@inbox=\box96
+\enit@count@id=\count375
+\enitdp@description=\count376
 ) (c:/texlive/2019/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box92
-\UL@hyphenbox=\box93
+\UL@box=\box97
+\UL@hyphenbox=\box98
 \UL@skip=\skip71
-\UL@hook=\toks57
-\UL@height=\dimen324
-\UL@pe=\count355
-\UL@pixel=\dimen325
-\ULC@box=\box94
+\UL@hook=\toks61
+\UL@height=\dimen357
+\UL@pe=\count377
+\UL@pixel=\dimen358
+\ULC@box=\box99
 Package: ulem 2019/11/18
-\ULdepth=\dimen326
+\ULdepth=\dimen359
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 38.56pt on input line 18.
@@ -993,53 +1094,53 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
  (c:/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count356
+\lrq@indent=\count378
  (c:/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (c:/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count357
-\c@listtotal=\count358
-\c@listcount=\count359
-\c@liststart=\count360
-\c@liststop=\count361
-\c@citecount=\count362
-\c@citetotal=\count363
-\c@multicitecount=\count364
-\c@multicitetotal=\count365
-\c@instcount=\count366
-\c@maxnames=\count367
-\c@minnames=\count368
-\c@maxitems=\count369
-\c@minitems=\count370
-\c@citecounter=\count371
-\c@maxcitecounter=\count372
-\c@savedcitecounter=\count373
-\c@uniquelist=\count374
-\c@uniquename=\count375
-\c@refsection=\count376
-\c@refsegment=\count377
-\c@maxextratitle=\count378
-\c@maxextratitleyear=\count379
-\c@maxextraname=\count380
-\c@maxextradate=\count381
-\c@maxextraalpha=\count382
-\c@abbrvpenalty=\count383
-\c@highnamepenalty=\count384
-\c@lownamepenalty=\count385
-\c@maxparens=\count386
-\c@parenlevel=\count387
-\blx@tempcnta=\count388
-\blx@tempcntb=\count389
-\blx@tempcntc=\count390
-\blx@maxsection=\count391
-\blx@maxsegment@0=\count392
-\blx@notetype=\count393
-\blx@parenlevel@text=\count394
-\blx@parenlevel@foot=\count395
-\blx@sectionciteorder@0=\count396
-\blx@entrysetcounter=\count397
+\c@tabx@nest=\count379
+\c@listtotal=\count380
+\c@listcount=\count381
+\c@liststart=\count382
+\c@liststop=\count383
+\c@citecount=\count384
+\c@citetotal=\count385
+\c@multicitecount=\count386
+\c@multicitetotal=\count387
+\c@instcount=\count388
+\c@maxnames=\count389
+\c@minnames=\count390
+\c@maxitems=\count391
+\c@minitems=\count392
+\c@citecounter=\count393
+\c@maxcitecounter=\count394
+\c@savedcitecounter=\count395
+\c@uniquelist=\count396
+\c@uniquename=\count397
+\c@refsection=\count398
+\c@refsegment=\count399
+\c@maxextratitle=\count400
+\c@maxextratitleyear=\count401
+\c@maxextraname=\count402
+\c@maxextradate=\count403
+\c@maxextraalpha=\count404
+\c@abbrvpenalty=\count405
+\c@highnamepenalty=\count406
+\c@lownamepenalty=\count407
+\c@maxparens=\count408
+\c@parenlevel=\count409
+\blx@tempcnta=\count410
+\blx@tempcntb=\count411
+\blx@tempcntc=\count412
+\blx@maxsection=\count413
+\blx@maxsegment@0=\count414
+\blx@notetype=\count415
+\blx@parenlevel@text=\count416
+\blx@parenlevel@foot=\count417
+\blx@sectionciteorder@0=\count418
+\blx@entrysetcounter=\count419
 \labelnumberwidth=\skip72
 \labelalphawidth=\skip73
 \biblabelsep=\skip74
@@ -1051,9 +1152,9 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read4
 \blx@bcfout=\write7
 \blx@langwohyphens=\language85
-\c@mincomprange=\count398
-\c@maxcomprange=\count399
-\c@mincompwidth=\count400
+\c@mincomprange=\count420
+\c@maxcomprange=\count421
+\c@mincompwidth=\count422
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -1063,74 +1164,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count401
-\c@savedafterword=\count402
-\c@annotator=\count403
-\c@savedannotator=\count404
-\c@author=\count405
-\c@savedauthor=\count406
-\c@bookauthor=\count407
-\c@savedbookauthor=\count408
-\c@commentator=\count409
-\c@savedcommentator=\count410
-\c@editor=\count411
-\c@savededitor=\count412
-\c@editora=\count413
-\c@savededitora=\count414
-\c@editorb=\count415
-\c@savededitorb=\count416
-\c@editorc=\count417
-\c@savededitorc=\count418
-\c@foreword=\count419
-\c@savedforeword=\count420
-\c@holder=\count421
-\c@savedholder=\count422
-\c@introduction=\count423
-\c@savedintroduction=\count424
-\c@namea=\count425
-\c@savednamea=\count426
-\c@nameb=\count427
-\c@savednameb=\count428
-\c@namec=\count429
-\c@savednamec=\count430
-\c@translator=\count431
-\c@savedtranslator=\count432
-\c@shortauthor=\count433
-\c@savedshortauthor=\count434
-\c@shorteditor=\count435
-\c@savedshorteditor=\count436
-\c@labelname=\count437
-\c@savedlabelname=\count438
-\c@institution=\count439
-\c@savedinstitution=\count440
-\c@lista=\count441
-\c@savedlista=\count442
-\c@listb=\count443
-\c@savedlistb=\count444
-\c@listc=\count445
-\c@savedlistc=\count446
-\c@listd=\count447
-\c@savedlistd=\count448
-\c@liste=\count449
-\c@savedliste=\count450
-\c@listf=\count451
-\c@savedlistf=\count452
-\c@location=\count453
-\c@savedlocation=\count454
-\c@organization=\count455
-\c@savedorganization=\count456
-\c@origlocation=\count457
-\c@savedoriglocation=\count458
-\c@origpublisher=\count459
-\c@savedorigpublisher=\count460
-\c@publisher=\count461
-\c@savedpublisher=\count462
-\c@language=\count463
-\c@savedlanguage=\count464
-\c@origlanguage=\count465
-\c@savedoriglanguage=\count466
-\c@pageref=\count467
-\c@savedpageref=\count468
+\c@afterword=\count423
+\c@savedafterword=\count424
+\c@annotator=\count425
+\c@savedannotator=\count426
+\c@author=\count427
+\c@savedauthor=\count428
+\c@bookauthor=\count429
+\c@savedbookauthor=\count430
+\c@commentator=\count431
+\c@savedcommentator=\count432
+\c@editor=\count433
+\c@savededitor=\count434
+\c@editora=\count435
+\c@savededitora=\count436
+\c@editorb=\count437
+\c@savededitorb=\count438
+\c@editorc=\count439
+\c@savededitorc=\count440
+\c@foreword=\count441
+\c@savedforeword=\count442
+\c@holder=\count443
+\c@savedholder=\count444
+\c@introduction=\count445
+\c@savedintroduction=\count446
+\c@namea=\count447
+\c@savednamea=\count448
+\c@nameb=\count449
+\c@savednameb=\count450
+\c@namec=\count451
+\c@savednamec=\count452
+\c@translator=\count453
+\c@savedtranslator=\count454
+\c@shortauthor=\count455
+\c@savedshortauthor=\count456
+\c@shorteditor=\count457
+\c@savedshorteditor=\count458
+\c@labelname=\count459
+\c@savedlabelname=\count460
+\c@institution=\count461
+\c@savedinstitution=\count462
+\c@lista=\count463
+\c@savedlista=\count464
+\c@listb=\count465
+\c@savedlistb=\count466
+\c@listc=\count467
+\c@savedlistc=\count468
+\c@listd=\count469
+\c@savedlistd=\count470
+\c@liste=\count471
+\c@savedliste=\count472
+\c@listf=\count473
+\c@savedlistf=\count474
+\c@location=\count475
+\c@savedlocation=\count476
+\c@organization=\count477
+\c@savedorganization=\count478
+\c@origlocation=\count479
+\c@savedoriglocation=\count480
+\c@origpublisher=\count481
+\c@savedorigpublisher=\count482
+\c@publisher=\count483
+\c@savedpublisher=\count484
+\c@language=\count485
+\c@savedlanguage=\count486
+\c@origlanguage=\count487
+\c@savedoriglanguage=\count488
+\c@pageref=\count489
+\c@savedpageref=\count490
 \shorthandwidth=\skip80
 \shortjournalwidth=\skip81
 \shortserieswidth=\skip82
@@ -1154,19 +1255,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count469
-\c@textcitetotal=\count470
-\c@textcitemaxnames=\count471
-\c@biburlbigbreakpenalty=\count472
-\c@biburlbreakpenalty=\count473
-\c@biburlnumpenalty=\count474
-\c@biburlucpenalty=\count475
-\c@biburllcpenalty=\count476
+\c@textcitecount=\count491
+\c@textcitetotal=\count492
+\c@textcitemaxnames=\count493
+\c@biburlbigbreakpenalty=\count494
+\c@biburlbreakpenalty=\count495
+\c@biburlnumpenalty=\count496
+\c@biburlucpenalty=\count497
+\c@biburllcpenalty=\count498
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count477
+\c@smartand=\count499
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -1182,8 +1283,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count478
-\c@bbx:relatedtotal=\count479
+\c@bbx:relatedcount=\count500
+\c@bbx:relatedtotal=\count501
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -1207,64 +1308,64 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 )) (c:/texlive/2019/texmf-dist/tex/latex/silence/silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
-\sl@Save=\count480
-\sl@StateNumber=\count481
-\sl@MessageCount=\count482
-\sl@Casualties=\count483
-\sl@Filter=\toks58
-\sl@Message=\toks59
-\sl@UnexpandedMessage=\toks60
-\sl@Mess@ge=\toks61
-\sl@WarningCount=\count484
-\sl@WarningNumber=\count485
-\sl@WarningCasualties=\count486
-\sl@TempBOW=\toks62
-\sl@BankOfWarnings=\toks63
+\sl@Save=\count502
+\sl@StateNumber=\count503
+\sl@MessageCount=\count504
+\sl@Casualties=\count505
+\sl@Filter=\toks62
+\sl@Message=\toks63
+\sl@UnexpandedMessage=\toks64
+\sl@Mess@ge=\toks65
+\sl@WarningCount=\count506
+\sl@WarningNumber=\count507
+\sl@WarningCasualties=\count508
+\sl@TempBOW=\toks66
+\sl@BankOfWarnings=\toks67
 LaTeX Info: Redefining \GenericWarning on input line 433.
-\sl@ErrorCount=\count487
-\sl@ErrorNumber=\count488
-\sl@ErrorCasualties=\count489
-\sl@TempBOE=\toks64
-\sl@BankOfErrors=\toks65
+\sl@ErrorCount=\count509
+\sl@ErrorNumber=\count510
+\sl@ErrorCasualties=\count511
+\sl@TempBOE=\toks68
+\sl@BankOfErrors=\toks69
 LaTeX Info: Redefining \GenericError on input line 601.
 ) (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/beamercolorthemeImperialWhite.sty))
-\@quotelevel=\count490
-\@quotereset=\count491
+\@quotelevel=\count512
+\@quotereset=\count513
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 49.
-LaTeX Font Info:    Trying to load font information for OML+ntxsfmi on input line 49.
+LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 51.
+LaTeX Font Info:    Trying to load font information for OML+ntxsfmi on input line 51.
  (c:/texlive/2019/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi.
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 49.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 49.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 51.
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 51.
  (c:/texlive/2019/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 49.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 49.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 51.
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 51.
  (c:/texlive/2019/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1302,25 +1403,25 @@ LaTeX Font Info:    ... okay on input line 49.
 
 (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count492
-\scratchdimen=\dimen327
-\scratchbox=\box95
-\nofMPsegments=\count493
-\nofMParguments=\count494
-\everyMPshowfont=\toks66
-\MPscratchCnt=\count495
-\MPscratchDim=\dimen328
-\MPnumerator=\count496
-\makeMPintoPDFobject=\count497
-\everyMPtoPDFconversion=\toks67
+\scratchcounter=\count514
+\scratchdimen=\dimen360
+\scratchbox=\box100
+\nofMPsegments=\count515
+\nofMParguments=\count516
+\everyMPshowfont=\toks70
+\MPscratchCnt=\count517
+\MPscratchDim=\dimen361
+\MPnumerator=\count518
+\makeMPintoPDFobject=\count519
+\everyMPtoPDFconversion=\toks71
 ) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box96
-Package hyperref Info: Link coloring OFF on input line 49.
+\AtBeginShipoutBox=\box101
+Package hyperref Info: Link coloring OFF on input line 51.
  (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (c:/texlive/2019/texmf-dist/tex/latex/refcount/refcount.sty
@@ -1328,61 +1429,61 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (c:/texlive/2019/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count498
+\c@section@level=\count520
 )
-LaTeX Info: Redefining \ref on input line 49.
-LaTeX Info: Redefining \pageref on input line 49.
-LaTeX Info: Redefining \nameref on input line 49.
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.out) (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.out)
 \@outlinefile=\write8
 \openout8 = `main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 49.
+(Font)              `operators' in the math version `normal' on input line 51.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/ntxtlf/m/n --> OT1/cmss/m/n on input line 49.
+(Font)                  T1/ntxtlf/m/n --> OT1/cmss/m/n on input line 51.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 49.
+(Font)              `operators' in the math version `bold' on input line 51.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/ntxtlf/b/n --> OT1/cmss/b/n on input line 49.
+(Font)                  T1/ntxtlf/b/n --> OT1/cmss/b/n on input line 51.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/ntxtlf/m/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 49.
+(Font)                  OT1/cmss/m/n --> T1/ntxtlf/m/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  T1/ntxtlf/b/n --> T1/qhv/b/n on input line 49.
+(Font)                  T1/ntxtlf/b/n --> T1/qhv/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/ntxtlf/b/n --> T1/qhv/b/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 49.
+(Font)                  T1/ntxtlf/b/n --> T1/qhv/b/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  T1/qhv/m/n --> T1/qhv/m/n on input line 49.
+(Font)                  T1/qhv/m/n --> T1/qhv/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/b/n --> T1/qhv/m/n on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 49.
+(Font)                  T1/qhv/b/n --> T1/qhv/m/n on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  T1/ntxtlf/m/it --> T1/qhv/m/it on input line 49.
+(Font)                  T1/ntxtlf/m/it --> T1/qhv/m/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/ntxtlf/b/it --> T1/qhv/m/it on input line 49.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 49.
+(Font)                  T1/ntxtlf/b/it --> T1/qhv/m/it on input line 51.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  T1/ntxtt/m/n --> T1/zi4/m/n on input line 49.
+(Font)                  T1/ntxtt/m/n --> T1/zi4/m/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/ntxtt/b/n --> T1/zi4/m/n on input line 49.
+(Font)                  T1/ntxtt/b/n --> T1/zi4/m/n on input line 51.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 49.
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 51.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 49.
+(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/ntxtlf/b/n on input line 49.
+(Font)                  OT1/cmss/b/n --> T1/ntxtlf/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/qhv/b/n --> T1/qhv/b/n on input line 49.
+(Font)                  T1/qhv/b/n --> T1/qhv/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 49.
+(Font)                  T1/qhv/m/n --> T1/qhv/b/n on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 49.
+(Font)                  T1/qhv/m/it --> T1/qhv/b/it on input line 51.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 49.
+(Font)                  T1/zi4/m/n --> T1/zi4/b/n on input line 51.
  (c:/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (c:/texlive/2019/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -1396,8 +1497,8 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (c:/texlive/2019/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@mv@tabular=\count499
-\c@mv@boldtabular=\count500
+\c@mv@tabular=\count521
+\c@mv@boldtabular=\count522
  (c:/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 )
@@ -1414,97 +1515,146 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.bbl)
-Package biblatex Info: Reference section=0 on input line 49.
-Package biblatex Info: Reference segment=0 on input line 49.
+Package biblatex Info: Reference section=0 on input line 51.
+Package biblatex Info: Reference segment=0 on input line 51.
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.nav)
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 18.6pt on input line 49.
+(Font)              scaled to size 18.6pt on input line 51.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 32.15pt on input line 50.
+(Font)              scaled to size 32.15pt on input line 52.
 \logowidth=\skip94
 \titleindent=\skip95
 <Imperial_1_Pantone_solid.pdf, id=13, 362.35374pt x 95.35625pt>
 File: Imperial_1_Pantone_solid.pdf Graphic file (type pdf)
 <use Imperial_1_Pantone_solid.pdf>
-Package pdftex.def Info: Imperial_1_Pantone_solid.pdf  used on input line 53.
+Package pdftex.def Info: Imperial_1_Pantone_solid.pdf  used on input line 55.
 (pdftex.def)             Requested size: 540.37923pt x 142.22064pt.
-LaTeX Font Info:    Calculating math sizes for size <32.15> on input line 53.
-LaTeX Font Info:    Trying to load font information for U+ntxsfmia on input line 53.
+LaTeX Font Info:    Calculating math sizes for size <32.15> on input line 55.
+LaTeX Font Info:    Trying to load font information for U+ntxsfmia on input line 55.
  (c:/texlive/2019/texmf-dist/tex/latex/newtxsf/untxsfmia.fd
 File: untxsfmia.fd 2014/11/16 Fontinst v1.933 font definitions for U/ntxsfmia.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 53.
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 55.
  (c:/texlive/2019/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 53.
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 55.
  (c:/texlive/2019/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 53.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 55.
  (c:/texlive/2019/texmf-dist/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 28.93478pt on input line 53.
+(Font)              scaled to size 28.93478pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 21.12225pt on input line 53.
+(Font)              scaled to size 21.12225pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 15.91422pt on input line 53.
+(Font)              scaled to size 15.91422pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 28.93478pt on input line 53.
+(Font)              scaled to size 28.93478pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 21.12225pt on input line 53.
+(Font)              scaled to size 21.12225pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
-(Font)              scaled to size 15.91422pt on input line 53.
+(Font)              scaled to size 15.91422pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 49.98564pt on input line 53.
+(Font)              scaled to size 49.98564pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 49.98564pt on input line 53.
+(Font)              scaled to size 49.98564pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 86.38141pt on input line 53.
+(Font)              scaled to size 86.38141pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 46.28pt on input line 53.
+(Font)              scaled to size 46.28pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 46.28pt on input line 53.
+(Font)              scaled to size 46.28pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 41.6517pt on input line 53.
+(Font)              scaled to size 41.6517pt on input line 55.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 38.56pt on input line 53.
+(Font)              scaled to size 38.56pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 34.70375pt on input line 53.
+(Font)              scaled to size 34.70375pt on input line 55.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 41.6517pt on input line 82.
-<images/metamaterials.jpg, id=14, 344.28625pt x 189.70876pt>
-File: images/metamaterials.jpg Graphic file (type jpg)
-<use images/metamaterials.jpg>
-Package pdftex.def Info: images/metamaterials.jpg  used on input line 95.
-(pdftex.def)             Requested size: 1016.01912pt x 506.88838pt.
+(Font)              scaled to size 41.6517pt on input line 68.
+<images/Cloak.jpeg, id=14, 1284.8pt x 561.09625pt>
+File: images/Cloak.jpeg Graphic file (type jpg)
+<use images/Cloak.jpeg>
+Package pdftex.def Info: images/Cloak.jpeg  used on input line 75.
+(pdftex.def)             Requested size: 914.31784pt x 399.30579pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 26.78pt on input line 96.
-
-
-pdfTeX warning: pdflatex.exe (file c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/AntColony.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<images/AntColony.pdf, id=15, 794.97pt x 614.295pt>
-File: images/AntColony.pdf Graphic file (type pdf)
-<use images/AntColony.pdf>
-Package pdftex.def Info: images/AntColony.pdf  used on input line 114.
-(pdftex.def)             Requested size: 1015.94482pt x 675.83907pt.
-<images/correlated.jpg, id=16, 344.28625pt x 189.70876pt>
-File: images/correlated.jpg Graphic file (type jpg)
-<use images/correlated.jpg>
-Package pdftex.def Info: images/correlated.jpg  used on input line 135.
-(pdftex.def)             Requested size: 1016.01912pt x 675.86758pt.
-<images/simulation_materials.jpg, id=17, 344.28625pt x 189.70876pt>
+(Font)              scaled to size 26.78pt on input line 76.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 38.56pt on input line 76.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
+(Font)              scaled to size 26.78pt on input line 76.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 26.78pt on input line 76.
+LaTeX Font Info:    Calculating math sizes for size <26.78> on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 24.10182pt on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 17.59422pt on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
+(Font)              scaled to size 13.25607pt on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 24.10182pt on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 17.59422pt on input line 76.
+LaTeX Font Info:    Font shape `T1/qhv/m/it' will be
+(Font)              scaled to size 13.25607pt on input line 76.
+<images/Temnothorax-albipennis-copyright-Nigel-R-Franks.jpg, id=15, 1070.21545pt x 644.23543pt>
+File: images/Temnothorax-albipennis-copyright-Nigel-R-Franks.jpg Graphic file (type jpg)
+<use images/Temnothorax-albipennis-copyright-Nigel-R-Franks.jpg>
+Package pdftex.def Info: images/Temnothorax-albipennis-copyright-Nigel-R-Franks.jpg  used on input line 89.
+(pdftex.def)             Requested size: 914.31784pt x 550.39449pt.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 90.
+ (c:/texlive/2019/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
+File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
+)
+LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
+(Font)              scaled to size 26.78pt on input line 90.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 19.54927pt on input line 90.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 14.72908pt on input line 90.
+<images/crystallisation.png, id=16, 749.80125pt x 623.32875pt>
+File: images/crystallisation.png Graphic file (type png)
+<use images/crystallisation.png>
+Package pdftex.def Info: images/crystallisation.png  used on input line 104.
+(pdftex.def)             Requested size: 528.28044pt x 439.19954pt.
+<images/simulation_materials.jpg, id=18, 344.28625pt x 189.70876pt>
 File: images/simulation_materials.jpg Graphic file (type jpg)
 <use images/simulation_materials.jpg>
-Package pdftex.def Info: images/simulation_materials.jpg  used on input line 148.
-(pdftex.def)             Requested size: 1016.01912pt x 675.86758pt.
+Package pdftex.def Info: images/simulation_materials.jpg  used on input line 114.
+(pdftex.def)             Requested size: 914.31784pt x 503.85762pt.
+<images/QR_code_for_mobile_English_Wikipedia.svg.png, id=19, 1204.5pt x 1204.5pt>
+File: images/QR_code_for_mobile_English_Wikipedia.svg.png Graphic file (type png)
+<use images/QR_code_for_mobile_English_Wikipedia.svg.png>
+Package pdftex.def Info: images/QR_code_for_mobile_English_Wikipedia.svg.png  used on input line 130.
+(pdftex.def)             Requested size: 113.80379pt x 113.80379pt.
+File: images/QR_code_for_mobile_English_Wikipedia.svg.png Graphic file (type png)
+<use images/QR_code_for_mobile_English_Wikipedia.svg.png>
+Package pdftex.def Info: images/QR_code_for_mobile_English_Wikipedia.svg.png  used on input line 134.
+(pdftex.def)             Requested size: 142.25475pt x 142.25475pt.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 4.0pt on input line 161.
-[1
+(Font)              scaled to size 4.0pt on input line 137.
+ [1
+Non-PDF special ignored!
+<special> header=pstricks.pro
+Non-PDF special ignored!
+<special> header=pst-algparser.pro
+Non-PDF special ignored!
+<special> header=pst-tools.pro
+Non-PDF special ignored!
+<special> header=pst-dots.pro
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/Imperial_1_Pantone_solid.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/metamaterials.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/AntColony.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/correlated.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg>]
+Non-PDF special ignored!
+<special> ps: /pssetRGBcolor /setrgbcolor load def /pssetCMYKcolor /setcmyk...
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@rot 0 def grestore  end
+Non-PDF special ignored!
+<special> ps:tx@Dict begin  gsave STV CP T /ps@refangle 0.  def grestore  e...
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/Imperial_1_Pantone_solid.pdf> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/Cloak.jpeg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/Temnothorax-albipennis-copyright-Nigel-R-Franks.JPG> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/crystallisation.png> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg> <c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png>]
 \tf@nav=\write9
 \openout9 = `main.nav'.
 
@@ -1514,11 +1664,11 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 \tf@snm=\write11
 \openout11 = `main.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 162.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 162.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 138.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 138.
  (c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 162.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 162.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 138.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 138.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -1526,18 +1676,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35110 strings out of 480994
- 685868 string characters out of 5916032
- 1378726 words of memory out of 5000000
- 49889 multiletter control sequences out of 15000+600000
- 605512 words of font info for 79 fonts, out of 8000000 for 9000
+ 36751 strings out of 480994
+ 710496 string characters out of 5916032
+ 1426399 words of memory out of 5000000
+ 51491 multiletter control sequences out of 15000+600000
+ 649931 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,109p,1194b,790s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
-Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 172777 bytes).
+{c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/tex-gyre/q-ec.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}<c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qhvri.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/tex-gyre/qtmri.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb>
+Output written on c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/main.pdf (1 page, 4676112 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 71 PDF objects out of 1000 (max. 8388607)
+ 44 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
- 68 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
