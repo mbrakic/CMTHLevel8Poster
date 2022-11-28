@@ -1,5 +1,5 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[70] biber-MSWIN32:322> INFO - === 
-[90] Biber.pm:415> INFO - Reading 'main.bcf'
-[199] Utils.pm:304> WARN - No data sources defined!
+[67] biber-MSWIN32:322> INFO - === 
+[84] Biber.pm:415> INFO - Reading 'main.bcf'
+[187] Utils.pm:304> WARN - No data sources defined!

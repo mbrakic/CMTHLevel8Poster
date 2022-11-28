@@ -313,6 +313,8 @@ INPUT c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex
 INPUT c:/texlive/2019/texmf-dist/tex/generic/pstricks/pstricks.con
 INPUT c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex
 INPUT c:/texlive/2019/texmf-dist/tex/generic/pstricks/pst-fp.tex
+INPUT c:/texlive/2019/texmf-dist/tex/latex/qrcode/qrcode.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/qrcode/qrcode.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/textpos/textpos.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/textpos/textpos.sty
 INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/beamerthemeImperialPoster.sty
@@ -584,11 +586,7 @@ INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/cr
 INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg
 INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg
 INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/simulation_materials.jpg
-INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png
-INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png
-INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png
-INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png
-INPUT c:/Users/milan/OneDrive/Documents/Work/Imperial/CMTHLevel8Poster/images/QR_code_for_mobile_English_Wikipedia.svg.png
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
 INPUT c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2019/texmf-dist/fonts/vf/public/newtxsf/ntxsfmi.vf
